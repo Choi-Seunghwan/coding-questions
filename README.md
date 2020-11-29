@@ -1,4 +1,3 @@
 # coding-questions
 
-Ha
-s
+코딩 문제풀이
